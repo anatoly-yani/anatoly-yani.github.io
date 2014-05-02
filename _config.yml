@@ -1,3 +1,0 @@
-markdown: redcarpet
-redcarpet:
-  extensions: ["hard_wrap"]
